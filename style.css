@@ -1,0 +1,21 @@
+.bg-ladies {
+    background: #FDEAE9;
+}
+
+.Subscribe-section {
+    height: 300px;
+    background-color: #FBEAE8;
+}
+
+.btn-info-reload {
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
+
+p {
+    font-size: 13px;
+    font-weight: 400;
+}
